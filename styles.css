@@ -3,26 +3,28 @@
 	align-items:center;
 	font-size:3rem;
 	justify-content:center;
+	flex-wrap:wrap;
 }
-.holder{
+.holder1{
 	display: flex;
 	font-size:3rem;
+	flex-wrap:wrap;
 }
 .red{
 	height:100px;
-	width:120px;
+	width:100px;
 	background-color:red;
 	order:2;
 }
 .blue{
 	height:100px;
-	width:120px;
+	width:100px;
 	background-color:blue;
 	order:3;
 }
 .green{
 	height:100px;
-	width:120px;
+	width:100px;
 	background-color:green;
 	order:1;
 	display:flex;
