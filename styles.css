@@ -1,10 +1,10 @@
-.A{
+.holder{
 	display: flex;
 	align-items:center;
 	font-size:3rem;
 	justify-content:center;
 }
-.B{
+.holder{
 	display: flex;
 	font-size:3rem;
 }
