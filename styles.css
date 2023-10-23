@@ -1,2 +1,32 @@
-
+.A{
+	display: flex;
+	align-items:center;
+	font-size:3rem;
+	justify-content:center;
+}
+.B{
+	display: flex;
+	font-size:3rem;
+}
+.red{
+	height:100px;
+	width:120px;
+	background-color:red;
+	order:2;
+}
+.blue{
+	height:100px;
+	width:120px;
+	background-color:blue;
+	order:3;
+}
+.green{
+	height:100px;
+	width:120px;
+	background-color:green;
+	order:1;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content:center;
+}
 /* Your CSS Code here. */
